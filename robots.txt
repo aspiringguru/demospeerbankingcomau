@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: demo1/
 Noindex: demo1/
+Sitemap: http://demos.peerbanking.com.au/sitemap.xml
