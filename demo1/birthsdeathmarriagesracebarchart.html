@@ -17,11 +17,20 @@
             <p>Data from
                 <a href="https://www.data.qld.gov.au/dataset/deaths-by-disposal-type" target="_blank">data.qld.gov.au</a>
             </p>
-            <p>This page uses data collated using python <i class="fab fa-python"></i></p>
         </div>
 
         <div id="container"></div>
         <footer class="footer">
+            <p>This page uses data collated from data.qld.gov.au
+                We used python <i class="fab fa-python"></i>
+                pandas.read_excel to load spreadsheet files, reformat data with
+                numpy, pandas then exported to json. Race Bar chart is created using canvas, animations and
+                rectangles drawn dynamically with interpolation of data
+                between the data points given to create a continuous flow.
+                Labels and numbers are dynamically positioned to ensure
+                readability. Vertical position of horizontal rectangles is
+                adjusted to create the race bar chart visual effect.
+                Rectangles can be replaced with images/icons as required.</p>
         </footer>
     </div>
     <script src="lib_index.js"></script>
