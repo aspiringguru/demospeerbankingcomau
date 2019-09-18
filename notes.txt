@@ -1,0 +1,25 @@
+https://htmlhead.dev/#recommended-minimum
+
+https://www.checkbot.io/
+https://www.xml-sitemaps.com/
+https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/
+
+
+watermark js
+https://www.patrick-wied.at/static/watermarkjs/demos/demo2.html
+https://www.patrick-wied.at/static/watermarkjs/
+http://brianium.github.io/watermarkjs/
+
+
+music in tensorflow js
+https://www.youtube.com/watch?v=GJfjKdpmN6g
+
+https://www.reddit.com/r/MachineLearning/comments/d0vxrs/d_facebook_microsoft_10m_deepfake_detection/
+
+
+https://github.com/aspiringguru/styleTransferDemo
+https://github.com/reiinakano/arbitrary-image-stylization-tfjs
+
+
+https://python-graph-gallery.com/340-scatterplot-animation/
+https://www.thedataschool.co.uk/pablo-saenz/how-to-create-connected-and-animated-scatter-plots/
